@@ -1,6 +1,6 @@
 # Simplechat
 
-**Simplechat** is an example of using packages of [**jrfws**](https://github.com/jirufik/jrfws) (api websockets) and [**jrfdb**](https://github.com/jirufik/jrfdb) (odb mongodb). Mongodb, Koa, Vue, Vuetify,
+**Simplechat** is an example of using packages of [**jrfws**](https://github.com/jirufik/jrfws) (api websockets) and [**jrfdb**](https://github.com/jirufik/jrfdb) (odm mongodb). Mongodb, Koa, Vue, Vuetify,
 
 ![chat](chat.png)
 
