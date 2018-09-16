@@ -1,0 +1,48 @@
+{
+  "name": "jrfsimplechat",
+  "version": "1.0.0",
+  "description": "Simple chat. Example jrfdb with jrfws",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "chat",
+    "jrfws",
+    "jrfdb",
+    "example",
+    "mongodb",
+    "koa",
+    "vue",
+    "vuetify"
+  ],
+  "author": {
+    "name": "jirufik",
+    "url": "https://github.com/jirufik"
+  },
+  "maintainers": [
+    {
+      "name": "jirufik",
+      "url": "https://github.com/jirufik"
+    }
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {
+    "jrfdb": "^1.1.6",
+    "jrfws": "^1.0.0",
+    "koa": "^2.5.3",
+    "koa-views": "^6.1.4",
+    "koa-json": "^2.0.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-static": "^5.0.0",
+    "koa-router": "^7.4.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jirufik/simplechat"
+  }
+}
