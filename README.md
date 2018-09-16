@@ -8,7 +8,7 @@
 
 * install mongodb
 * install npm node
-* $ git clont https://github.com/jirufik/simplechat.git
+* $ git clone https://github.com/jirufik/simplechat.git
 * $ npm i
 * $ npm run start
 * in browser http://localhost:3002/
