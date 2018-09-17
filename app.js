@@ -1,5 +1,5 @@
 const Koa = require('koa');
-const JRFWS = require('../jrfws');
+const JRFWS = require('jrfws');
 const app = new Koa();
 const jrfws = new JRFWS();
 // const testapp = require('./test');
