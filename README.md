@@ -22,11 +22,6 @@
 app.listen(3002);
 ```
 
-```js
-/// public/js/chat.js
-await jrfws.connectToWs('ws://localhost:3002');
-```
-
 **MongoDB**
 
 ```js
