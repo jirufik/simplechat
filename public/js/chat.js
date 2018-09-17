@@ -13,7 +13,7 @@ async function start() {
 
     jrfws = new JRFWS();
     await routing();
-    await jrfws.connectToWs('ws://localhost:3002');
+    await jrfws.connectToWs('ws://' + window.location.host);
 
 }
 
